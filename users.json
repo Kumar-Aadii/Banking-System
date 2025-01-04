@@ -1,0 +1,16 @@
+{
+    "example_user": {
+        "password": "hashed_password_here",
+        "account_number": "1234567890",
+        "pin": "1234",
+        "balance": 1000.0,
+        "currency": "INR",
+        "account_type": "Savings",
+        "first_name": "Aditya",
+        "last_name": "Kumar",
+        "dob": "1990-01-01",
+        "gender": "Male",
+        "transactions": [],
+        "loan": null
+    }
+}
