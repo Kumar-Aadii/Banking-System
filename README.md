@@ -9,8 +9,8 @@ A Python-based banking system that allows users to manage their accounts, perfor
   - Unique account numbers and usernames are auto-generated.
 
 2. **Authentication:**
-   - Secure login system using hashed passwords.
-   - 4-digit PIN verification for sensitive operations.
+  - Secure login system using hashed passwords.
+  - 4-digit PIN verification for sensitive operations.
 
 3. **Transaction Features**:
   - Check account balance with warnings for low balances.
@@ -20,16 +20,16 @@ A Python-based banking system that allows users to manage their accounts, perfor
 
 4. **Currency Management**:
   - Change account currency (Supported: USD, EUR, INR, GBP).
-  Currency conversion with real-time updates.
+  -Currency conversion with real-time updates.
 
 5. **Loan Management**:
   - Apply for loans with fixed interest rates.
   - EMI calculation and next due date tracking.
 
 6. **Additional Features:**
-   - Account deletion.
-   - Transaction logging for auditing.
-   - Warnings for low balance.
+  - Account deletion.
+  - Transaction logging for auditing.
+  - Warnings for low balance.
 
 ## Prerequisites
 
